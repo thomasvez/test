@@ -1,0 +1,16 @@
+apiVersion: universal-search/v1alpha1
+kind: API
+metadata:
+  name: universal-search
+  description: Demo of universal-search REST Framework JSON-API
+  annotations:
+    backstage.io/techdocs-ref: 'url:https://gitlab.cc.columbia.edu/cuit-ent-arch/django-training'
+
+  tags:
+    - rest
+spec:
+  type: openapi
+  lifecycle: development
+  owner: eng@rakbank.ae
+  definition:
+    $text: https://gitlab.cc.columbia.edu/cuit-ent-arch/django-training/raw/master/docs/schemas/openapi.yaml
