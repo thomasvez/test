@@ -13,4 +13,4 @@ spec:
   lifecycle: development
   owner: eng@rakbank.ae
   definition:
-    $text: https://gitlab.cc.columbia.edu/cuit-ent-arch/django-training/raw/master/docs/schemas/openapi.yaml
+    $text: https://github.com/thomasvez/test/blob/main/universal-search-v1.yaml
