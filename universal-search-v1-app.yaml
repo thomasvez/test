@@ -3,8 +3,6 @@ kind: API
 metadata:
   name: universal-search
   description: Demo of universal-search REST Framework JSON-API
-  annotations:
-    backstage.io/techdocs-ref: 'url:https://gitlab.cc.columbia.edu/cuit-ent-arch/django-training'
 
   tags:
     - rest
