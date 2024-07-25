@@ -1,4 +1,4 @@
-apiVersion: universal-search/v1alpha1
+apiVersion: 1.0.0
 kind: API
 metadata:
   name: universal-search
